@@ -17,9 +17,8 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧩 PS </h2> <br>
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+    <div style="margin: 0 auto; text-align: center;" align= "left"> 
       <a href="https://solved.ac/profile/whygari4321"><img src="http://mazassumnida.wtf/api/generate_badge?boj=whygari4321"></a>
-      <a href="https://solved.ac/profile/whygari4321"><img src="https://mazandi.herokuapp.com/api?handle=whygari4321&theme=warm"></a>
     </div>
   </div>
 </div>
